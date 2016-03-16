@@ -4,6 +4,7 @@
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
    * [作业](chapter01/assignment.md)
+   * [写给Zoe——面对同侪压力](chapter01/under-pressure.md)
 * [第二讲：写作的最小模型、最小故事与最小行动](chapter02/README.md)
    * [笔记](chapter02/note.md)
    * [作业](chapter02/assignment.md)
