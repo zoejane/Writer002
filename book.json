@@ -6,11 +6,4 @@
         }
     }
     
-    
-       "pluginsConfig": {
-       "search": {
-            "maxIndexSize": 100000
-       }
-    }
-    
 }
